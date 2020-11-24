@@ -1,0 +1,3 @@
+rootProject.name='WheelRoomPicker'
+include ':app'
+include ':wheelmultipicker'
